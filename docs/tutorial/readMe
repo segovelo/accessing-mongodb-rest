@@ -1,0 +1,5 @@
+1 - To start mongoDB server go to terminal where mongo.exe is installed :
+C:\Program Files\MongoDB\Server\4.4\bin>mongod --dbpath C:\Users\Sebastian\Spring-Boot\mongoDB\data\db
+
+2 - Then in a second terminal:
+C:\Program Files\MongoDB\Server\4.4\bin>mongo start
